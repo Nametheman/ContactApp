@@ -1,0 +1,113 @@
+.contact__cards {
+  border: 1px solid #a792ee6e;
+  border-radius: 15px;
+  margin: 2rem auto;
+  width: 600px;
+  background: #a792ee6e;
+  padding: 0.6rem 0;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.contact-details {
+  padding-left: 1rem;
+}
+
+.contact-name {
+  padding: 1rem;
+  width: 550px;
+  color: white;
+  border-radius: 10px;
+  background: #40005d;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  margin: 10px auto;
+}
+.contact-name p {
+  text-align: left;
+  font-weight: 600px;
+  font-size: 20px;
+  line-height: 14px;
+}
+.contact-age {
+  padding: 1rem;
+  width: 550px;
+  color: white;
+  border-radius: 10px;
+  background: #40005d;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  margin: 10px auto;
+}
+.contact-age p {
+  text-align: left;
+  font-weight: 600px;
+  font-size: 20px;
+  line-height: 14px;
+}
+.contact-job {
+  padding: 1rem;
+  width: 550px;
+  color: white;
+  border-radius: 10px;
+  background: #40005d;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  margin: 10px auto;
+}
+.contact-job p {
+  text-align: left;
+  font-weight: 600px;
+  font-size: 20px;
+  line-height: 14px;
+}
+.contact-phone {
+  padding: 1rem;
+  width: 550px;
+  color: white;
+  border-radius: 10px;
+  background: #40005d;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  margin: 10px auto;
+}
+.contact-phone p {
+  text-align: left;
+  font-weight: 600px;
+  font-size: 20px;
+  line-height: 14px;
+}
+.contact-email {
+  padding: 1rem;
+  width: 550px;
+  color: white;
+  border-radius: 10px;
+  background: #40005d;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  margin: 10px auto;
+}
+.contact-email p {
+  text-align: left;
+  font-weight: 600px;
+  font-size: 20px;
+  line-height: 14px;
+}
+
+/* .contact button {
+  font: inherit;
+  cursor: pointer;
+  padding: 1rem 2rem;
+  border: 1px solid #40005d;
+  background-color: #40005d;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  color: white;
+  border-radius: 12px;
+  margin-left: 1.5rem;
+  margin-top: 0.5rem;
+  margin-right: 0.5rem;
+} */
+.contact__card ul li {
+  list-style: none;
+}
+
+.contact__cards img {
+  margin-left: 1rem;
+  height: 2.5rem;
+  filter: opacity(0.5) drop-shadow(0 0 0 red);
+  cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.contacts__container {
+  width: 800px;
+  margin-top: 2rem;
+  margin-left: 7rem;
+  padding-top: 0.8rem;
+  padding-bottom: 2rem;
+  border-radius: 15px;
+  background: #a792ee6e;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.contact-header h3 {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 28px;
+}
